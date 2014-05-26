@@ -1,0 +1,149 @@
+{
+	"name": "/",
+		"children": [
+		{ "name": "achievenment" },
+		{ "name": "achievenment-type" },
+		{ "name": "album",
+			"children": [
+			{"name": "picture"},
+			{"name": "photos"}
+			]
+		},
+		{ "name": "app",
+			"children": [
+			{ "name": "app_link_hosts" },
+			{ "name": "accounts/test-users" },
+			{ "name": "achievenments" },
+			{ "name": "banned" },
+			{ "name": "groups" },
+			{ "name": "insights" },
+			{ "name": "picture" },
+			{ "name": "roles" },
+			{ "name": "scores" },
+			{ "name": "staticresources" },
+			{ "name": "subscriptions" },
+			{ "name": "translations" }
+			]
+		},
+		{ "name": "app_link_host" },
+		{ "name": "comment" },
+		{ "name": "domain" },
+		{ "name": "event",
+			"children": [
+			{ "name": "attending" },
+			{ "name": "declined" },
+			{ "name": "feed" },
+			{ "name": "invited" },
+			{ "name": "maybe" },
+			{ "name": "noreply" },
+			{ "name": "picture" },
+			{ "name": "photos" },
+			{ "name": "videos" }
+			]
+		},
+		{ "name": "friendlist",
+			"children": [
+			{ "name": "members" }
+			]
+		},
+		{ "name": "group",
+			"children": [
+			{ "name": "admins" },
+			{ "name": "docs" },
+			{ "name": "feed" },
+			{ "name": "files" },
+			{ "name": "members" }
+			]
+		},
+		{ "name": "link" },
+		{ "name": "message" },
+		{ "name": "milestoe",
+			"children": [
+			{ "name": "photos"}
+			]
+		},
+		{ "name": "object/comments"},
+		{ "name": "object/likes"},
+		{ "name": "object/sharedposts"},
+		{ "name": "insights"},
+		{ "name": "offer"},
+		{ "name": "page",
+			"children":[
+			{ "name": "admins"},
+			{ "name": "albums"},
+			{ "name": "blocked"},
+			{ "name": "conversations"},
+			{ "name": "events"},
+			{ "name": "feed"},
+			{ "name": "global_brand_children"}
+			]
+		},
+		{ "name": "payment",
+			"children": [
+			{ "name": "dispute"},
+			{ "name": "refunds"}
+			]
+		},
+		{ "name": "photo",
+			"children":[
+			{ "name": "tags"}
+			]
+		},
+		{ "name": "place-tag"},
+		{ "name": "post"},
+		{ "name": "review"},
+		{ "name": "status"},
+		{ "name": "test-user",
+			"children": [
+			{ "name": "friends"}
+			]
+		},
+		{ "name": "thread"},
+		{ "name": "user",
+			"children": [
+			{ "name": "accounts"},
+			{ "name": "achievenments"},
+			{ "name": "activities"},
+			{ "name": "adaccounts"},
+			{ "name": "albums"},
+			{ "name": "applications/developer"},
+			{ "name": "apprequests"},
+			{ "name": "books"},
+			{ "name": "events"},
+			{ "name": "family"},
+			{ "name": "friendlists"},
+			{ "name": "friendrequest"},
+			{ "name": "friends"},
+			{ "name": "games"},
+			{ "name": "groups"},
+			{ "name": "home"},
+			{ "name": "ids_for_business"},
+			{ "name": "inbox"},
+			{ "name": "invitable_friends"},
+			{ "name": "likes"},
+			{ "name": "links"},
+			{ "name": "movies"},
+			{ "name": "music"},
+			{ "name": "notifications"},
+			{ "name": "outbox"},
+			{ "name": "payment_transactions"},
+			{ "name": "payments"},
+			{ "name": "permissions"},
+			{ "name": "picture"},
+			{ "name": "photos"},
+			{ "name": "photos/uploaded"},
+			{ "name": "pokes"},
+			{ "name": "posts"},
+			{ "name": "scores"},
+			{ "name": "statuses"},
+			{ "name": "taggable_friends"},
+			{ "name": "tagged"},
+			{ "name": "tagged_places"},
+			{ "name": "television"},
+			{ "name": "videos"},
+			{ "name": "videos/uploaded"}
+			]
+		},
+		{ "name": "video"}
+	]
+}
